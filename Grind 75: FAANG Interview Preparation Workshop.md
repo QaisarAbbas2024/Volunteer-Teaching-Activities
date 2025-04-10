@@ -18,7 +18,7 @@ You'll find links to the lecture recordings I presented during the workshop. The
 
 Organized by: @iCodeGuru
 
-Schedule: March 16–22, 2025
+Schedule: March 16 - 22, 2025
 
 Time: 9PM PKT daily
 ***
