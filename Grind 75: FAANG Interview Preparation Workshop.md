@@ -15,6 +15,7 @@ You'll find links to the lecture recordings I presented during the workshop. The
 - **Day 6:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/1365050891167698/)
 ***
 **🔗 Workshop Info**
+
 Organized by: @iCodeGuru
 
 Schedule: March 16–22, 2025
