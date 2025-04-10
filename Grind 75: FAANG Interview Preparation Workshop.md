@@ -1,4 +1,4 @@
-# 📚 Grind 75: FAANG Interview Preparation Workshop
+## 📚 Grind 75: FAANG Interview Preparation Workshop
 by [Qaisar Abbas](https://github.com/QaisarAbbas2024/)
 
 Welcome to the official repository for the lectures I delivered as part of the "Grind 75: FAANG Interview Preparation Workshop", hosted by iCodeGuru. This 7-day intensive workshop kicked off on March 16th, 2025, and was led by a passionate team of mentors and trainers (including myself), all driven by the goal of helping students prepare for technical interviews at top tech companies like FAANG (Facebook, Amazon, Apple, Netflix, Google).
@@ -16,12 +16,14 @@ You'll find links to the lecture recordings I presented during the workshop. The
 - **Day 5:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/1281699759596162/)
 - **Day 6:** [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/1365050891167698/)
 ***
-🔗 Workshop Info
-Organized by: iCodeGuru
+**🔗 Workshop Info**
+Organized by: @iCodeGuru
+
 Schedule: March 16–22, 2025
+
 Time: 9PM PKT daily
 ***
-🧠 LeetCode Problems Covered in My Sessions
+### 🧠 LeetCode Problems Covered in My Sessions
 During my sessions in the workshop, I walked through detailed solutions and approaches for the following LeetCode problems:
 
 125. Valid Palindrome
