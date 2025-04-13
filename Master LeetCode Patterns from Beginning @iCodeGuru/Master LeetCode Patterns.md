@@ -21,7 +21,7 @@ As part of the initiative to build strong problem-solving skills, students are e
 
 | Date        | LeetCode Problem                  | Problem Number | Notes/Material |
 |-------------|----------------------------------|----------------|----------------|
-| 11 April 2025 | Climbing Stairs                   | LeetCode 70    | Recursion, DP  |
+| 11 April 2025 | Climbing Stairs                   | LeetCode 70    | [Github File](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/main/70.%20Climbing%20Stairs)  |
 | *(More coming soon)* | *TBD*                          | *TBD*          | *Will update*  |
 
 I will continue to present more problems in the coming weeks and update my entries in the above shared sheet.
