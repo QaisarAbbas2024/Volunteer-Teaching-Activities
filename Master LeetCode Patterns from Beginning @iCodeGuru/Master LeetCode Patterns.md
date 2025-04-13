@@ -1,11 +1,16 @@
-# 💻 Master LeetCode Patterns from Beginning – @iCodeGuru Sessions
+# 💻 Master LeetCode Patterns from Beginning – [@iCodeGuru](https://www.linkedin.com/company/icode-guru/posts/?feedView=all)
+<div align="center">
 
-Welcome to the documentation of my **volunteer teaching participation** in the *Master LeetCode Patterns from Beginning* series hosted by **@iCodeGuru**.
+![Made by Qaisar](https://img.shields.io/badge/Made%20by-Qaisar%20Abbas-blueviolet)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+</div>
+
+Welcome to the documentation of my **volunteer teaching participation** in the *Master LeetCode Patterns from Beginning* series hosted by **[@iCodeGuru](https://www.linkedin.com/company/icode-guru/posts/?feedView=all)**.
 
 📅 **Session Schedule**:  
 🗓️ *Monday to Friday*  
 ⏰ *8:00 PM PKT (Pakistan Standard Time)*  
-📍 *Platform*: Online (@iCodeGuru)
+📍 *Platform*: Online ([@iCodeGuru](https://www.linkedin.com/company/icode-guru/posts/?feedView=all))
 
 ---
 
@@ -19,15 +24,21 @@ As part of the initiative to build strong problem-solving skills, students are e
 
 ## ✅ My Presentations
 
-| Date        | LeetCode Problem                  | Problem Number | Notes/Material |
-|-------------|----------------------------------|----------------|----------------|
-| 11 April 2025 | Climbing Stairs                   | LeetCode 70    | [Github File](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/main/70.%20Climbing%20Stairs)  |
+| Date        | LeetCode Problem                  | Problem Number | Notes/Material | Recording Links |
+|-------------|----------------------------------|----------------|----------------|----------------|
+| 11 April 2025 | Climbing Stairs                   | LeetCode 70    | [Github File](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/main/70.%20Climbing%20Stairs)  | [Week 1 Friday Sessions Recording](https://www.facebook.com/share/v/1E1JDLqGeL/?mibextid=oFDknk) |
 | *(More coming soon)* | *TBD*                          | *TBD*          | *Will update*  |
 
 I will continue to present more problems in the coming weeks and update my entries in the above shared sheet.
 
 ---
-
+## ✅ Official Announcement
+<p float="left">
+ <a href="[https://www.linkedin.com/feed/update/urn:li:activity:7315443978370203650/](https://www.linkedin.com/posts/icode-guru_icodeguru-ai-python-activity-7313910359126392835-odz8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACWO1IMBlh_Ze2fESduaOpic1ZppKmGjFUg)">
+     <img src="------" width="300px" />
+  </a>
+---
+  
 ## 🚀 Objective
 
 The goal of this initiative is to:
@@ -40,8 +51,8 @@ The goal of this initiative is to:
 
 ## 🙌 Special Thanks
 
-A big shout-out to **Dr. Zafar Shahid** and the @iCodeGuru team for organizing these productive and inspiring sessions. Your efforts are shaping stronger problem solvers and future leaders! 💡
+A big shout-out to **[Dr. Zafar Shahid](https://www.linkedin.com/in/zafarshahid/)** and the [@iCodeGuru](https://www.linkedin.com/company/icode-guru/posts/?feedView=all) team for organizing these productive and inspiring sessions. Your efforts are shaping stronger problem solvers and future leaders! 💡
 
 ---
 
-📌 *Stay tuned for more updates and learning material as I continue my journey with @iCodeGuru!*
+📌 *Stay tuned for more updates and learning material as I continue my journey with [@iCodeGuru](https://www.linkedin.com/company/icode-guru/posts/?feedView=all)!*
