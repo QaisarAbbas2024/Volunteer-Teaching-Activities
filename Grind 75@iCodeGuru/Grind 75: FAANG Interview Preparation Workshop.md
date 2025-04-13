@@ -1,9 +1,21 @@
-## 📚 Grind 75: FAANG Interview Preparation Workshop
+## 📚 Grind 75: FAANG Interview Preparation Workshop [@iCodeGuru](https://www.linkedin.com/company/icode-guru/posts/?feedView=all)
+<div align="center">
+
+![Made by Qaisar](https://img.shields.io/badge/Made%20by-Qaisar%20Abbas-blueviolet)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+</div>
+
 by [Qaisar Abbas](https://github.com/QaisarAbbas2024/)
 
 Welcome to the official repository for the lectures I delivered as part of the "Grind 75: FAANG Interview Preparation Workshop", hosted by iCodeGuru. This 7-day intensive workshop kicked off on March 16th, 2025, and was led by a passionate team of mentors and trainers (including myself), all driven by the goal of helping students prepare for technical interviews at top tech companies like FAANG (Facebook, Amazon, Apple, Netflix, Google).
 ***
 📢**Announcement:** [View on Facebook](https://www.facebook.com/share/p/1AEKihwC8P/) 
+
+<p float="left">
+ <a href="https://www.facebook.com/share/p/1AEKihwC8P/">
+     <img src="GRIND 75 Announcement.jpg" width="300px" />
+  </a>
+
 ***
 ### 📅 Workshop Recordings/ 🎥 Lecture Videos:
 You'll find links to the lecture recordings I presented during the workshop. These sessions cover essential topics and problem-solving strategies based on the popular Grind 75 list.
@@ -16,7 +28,7 @@ You'll find links to the lecture recordings I presented during the workshop. The
 ***
 **🔗 Workshop Info**
 
-Organized by: @iCodeGuru
+Organized by: [@iCodeGuru](https://www.linkedin.com/company/icode-guru/posts/?feedView=all)
 
 Schedule: March 16 - 22, 2025
 
@@ -45,4 +57,10 @@ During my sessions in the workshop, I walked through detailed solutions and appr
 
 Each problem was selected to strengthen core concepts in data structures and algorithms, with a focus on interview-style thinking.
 ***
-👥 Special thanks to my fellow trainers and teammates for making this workshop impactful and collaborative.
+## 🙌 Special Thanks
+
+A big shout-out to **[Dr. Zafar Shahid](https://www.linkedin.com/in/zafarshahid/)** , [Zubair Zafar](https://www.linkedin.com/in/zubair480/) and the [@iCodeGuru](https://www.linkedin.com/company/icode-guru/posts/?feedView=all) team for organizing these productive and inspiring sessions. Your efforts are shaping stronger problem solvers and future leaders! 💡
+
+---
+
+📌 *Stay tuned for more updates and learning material as I continue my journey with [@iCodeGuru](https://www.linkedin.com/company/icode-guru/posts/?feedView=all)!*
