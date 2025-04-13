@@ -11,7 +11,7 @@ Welcome to the documentation of my **volunteer teaching participation** in the *
 
 ## 🔁 Weekly Presentation on Fridays
 
-As part of the initiative to build strong problem-solving skills, students are encouraged to **present one LeetCode question** every **Friday**. I actively participate in this segment and present selected LeetCode problems weekly.
+As part of the initiative to build strong problem-solving skills, students are encouraged to **present LeetCode questions** every **Friday**. I actively participate in this segment and present selected LeetCode problems weekly.
 
 🔗 [Presentation Sign-Up Sheet (Google Spreadsheet)](https://docs.google.com/spreadsheets/d/1STVaOZkX7PFej5AWUujMKfEYjiHu8oxAyNquoGAsKYE/edit?gid=922840490#gid=922840490)
 
