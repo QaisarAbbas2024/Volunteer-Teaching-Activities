@@ -28,9 +28,9 @@ Here is a link to the slides and recording spreadsheet for all the presentations
 📊 **[Presentation Slides](https://docs.google.com/presentation/d/1t-54_e0c0R8zj0xnHd6B-0f1fwrZJhIyqIPNUrkxlIo/edit#slide=id.g1067dbb9740_2_198)**  
 📋 **[Recording & Notes Spreadsheet](https://docs.google.com/spreadsheets/d/1Y1Pht64lLuEIIR05i7f1QcO7RaqbLYG4NxNs1u7eIys/edit?gid=0#gid=0)**
 
-| Date        | Topic/LeetCode Problem                  | Problem Number | Notes/Material | Recording Links |
-|-------------|------------------------------------------|----------------|----------------|------------------|
-|  14 April 2025           |  Overview of iCodeGuru                                       |                |                |                  |
+| Date        | Topic/LeetCode Problem                 | Notes/Material | Recording Links | Presenter |
+|-------------|----------------------------------|----------------|------------------|----------------|
+|  14 April 2025 |  Overview of iCodeGuru  |  **[Presentation Slides](https://docs.google.com/presentation/d/1t-54_e0c0R8zj0xnHd6B-0f1fwrZJhIyqIPNUrkxlIo/edit#slide=id.g1067dbb9740_2_198)**        |    [W1, D1 Recording Link](https://www.facebook.com/iCodeguru/videos/9891651877545473) | Qaisar Abbas (Me) |
 
 ---
 
