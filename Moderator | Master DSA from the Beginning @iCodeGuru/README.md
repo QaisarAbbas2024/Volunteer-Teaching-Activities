@@ -54,7 +54,13 @@ Here are a few snapshots from our live Zoom session:
 📣 **My LinkedIn Post**: [Click here](https://www.linkedin.com/feed/update/urn:li:activity:7317296386029314048/) 
 
 ---
+## 📂 Dedicated DSA Repository
 
+There is a **separate repository** for this DSA course on my GitHub, which will be **updated regularly** with problems, solutions, notes, and helpful resources.
+
+🔗 [Visit the DSA Repository](https://github.com/QaisarAbbas2024/Master-DSA-from-the-Beginning)
+
+---
 ## 🙌 Special Thanks
 
 A big shout-out to **[Dr. Zafar Shahid](https://www.linkedin.com/in/zafarshahid/)**, **Sir Rizwan Ghaffar**, and the [@iCodeGuru](https://www.linkedin.com/company/icode-guru/posts/?feedView=all) team for organizing these productive and inspiring sessions. Your efforts are shaping stronger problem solvers and future leaders! 💡
