@@ -46,6 +46,9 @@ Here are a few snapshots from our live Zoom session:
 ---
 
 ## 📢 **Announcement:**
+<p align="left">
+  <img src="Master Data Structures and Algorithms from the Beginning 10PM.jpg" alt="Master Data Structures and Algorithms from the Beginning 10PM.jpg" width="400"/>
+</p>
 
 📣 **iCodeGuru Facebook Post**: [Click here](https://www.facebook.com/share/p/1F31YvWdEk/)  
 📣 **My LinkedIn Post**: [Click here](https://www.linkedin.com/feed/update/urn:li:activity:7317296386029314048/) 
