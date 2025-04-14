@@ -34,6 +34,17 @@ Here is a link to the slides and recording spreadsheet for all the presentations
 
 ---
 
+## 📸 Session Glimpses
+
+Here are a few snapshots from our live Zoom session:
+
+<p align="left">
+  <img src="DSA W1 D1 img1.jpg" alt="DSA W1 D1 img1" width="400"/>
+  <img src="DSA W1 D1 img2.jpg" alt="DSA W1 D1 img2" width="400"/>
+</p>
+
+---
+
 ## 📢 **Announcement:**
 
 📣 **iCodeGuru Facebook Post**: [Click here](https://www.facebook.com/share/p/1F31YvWdEk/)  
