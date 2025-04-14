@@ -13,7 +13,7 @@ Welcome to the GitHub space where I share my journey as a moderator for the **"M
 
 ## 🚀 Session Kick-Off
 
-I had the honor to **inaugurate** this insightful DSA session, where I started by presenting an **introduction to [@iCodeGuru](https://www.linkedin.com/company/icode-guru/posts/?feedView=all)** using slides. The session was attended by approximately **30 students**.
+I had the honor to **moderate** this insightful DSA session, where I started by presenting an **introduction to [@iCodeGuru](https://www.linkedin.com/company/icode-guru/posts/?feedView=all)** using slides. The session was attended by approximately **30 students**.
 
 We were fortunate to have **Sir Rizwan Ghaffar** join us. He addressed students' questions and provided valuable guidance regarding their **academic paths and career planning**, going beyond the scope of DSA.
 
