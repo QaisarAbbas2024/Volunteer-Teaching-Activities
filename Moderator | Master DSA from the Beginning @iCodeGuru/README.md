@@ -64,7 +64,7 @@ There is a **separate repository** for this DSA course on my GitHub, which will 
 ---
 ## 🙌 Special Thanks
 
-A big shout-out to **[Dr. Zafar Shahid](https://www.linkedin.com/in/zafarshahid/)**, **Sir Rizwan Ghaffar**, and the [@iCodeGuru](https://www.linkedin.com/company/icode-guru/posts/?feedView=all) team for organizing these productive and inspiring sessions. Your efforts are shaping stronger problem solvers and future leaders! 💡
+A big shout-out to **[Dr. Zafar Shahid](https://www.linkedin.com/in/zafarshahid/)**, **[Sir Rizwan Ghaffar](https://www.linkedin.com/in/rizwan-ghaffar-8283231a/)**, and the [@iCodeGuru](https://www.linkedin.com/company/icode-guru/posts/?feedView=all) team for organizing these productive and inspiring sessions. Your efforts are shaping stronger problem solvers and future leaders! 💡
 
 ---
 
