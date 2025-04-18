@@ -26,7 +26,7 @@ As part of the initiative to build strong problem-solving skills, students are e
 
 | Date        | LeetCode Problem                  | Problem Number | Notes/Material | Recording Links |
 |-------------|----------------------------------|----------------|----------------|----------------|
-| 11 April 2025 | Climbing Stairs                   | LeetCode 70    | [Github File](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/main/70.%20Climbing%20Stairs)  | [Watch on Facebook](https://www.facebook.com/share/v/1E1JDLqGeL/?mibextid=oFDknk) |
+| 11 April 2025 | Climbing Stairs                   | LeetCode 70    | [Github File](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/main/70.%20Climbing%20Stairs)  | [Watch on Facebook]([https://www.facebook.com/share/v/1E1JDLqGeL/?mibextid=oFDknk](https://www.facebook.com/watch/?mibextid=oFDknk&v=669248146050460&rdid=R1Evi5vYX3JAQw3u)) |
 | *(More coming soon)* | *TBD*                          | *TBD*          | *Will update*  |
 
 I will continue to present more problems in the coming weeks and update my entries in the above shared sheet.
