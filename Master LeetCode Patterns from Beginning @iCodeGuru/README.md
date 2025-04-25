@@ -28,7 +28,7 @@ As part of the initiative to build strong problem-solving skills, students are e
 |-------------|----------------------------------|----------------|----------------|----------------|
 | 11 April 2025 | Climbing Stairs                | [LeetCode 70](https://leetcode.com/problems/climbing-stairs/)    | [Github File](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/main/70.%20Climbing%20Stairs)  | [Watch on Facebook](https://www.facebook.com/share/v/1E1JDLqGeL/?mibextid=oFDknk) |
 | 18 April 2025 | Implement Queue using Stacks   | [LeetCode 232](https://leetcode.com/problems/implement-queue-using-stacks/)          | [Github File](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/main/232.%20Implement%20Queue%20using%20Stacks)  | [Watch on Facebook](https://www.facebook.com/watch/?v=1199427171918663&rdid=M1DZes73AOHQmoHI) |
-| 25 April 2025 | Find Peak Element | [LeetCode 162](https://leetcode.com/problems/find-peak-element/description/) |              |                |                |
+| 25 April 2025 | Find Peak Element | [LeetCode 162](https://leetcode.com/problems/find-peak-element/description/) |              | [Watch on Facebook](https://www.facebook.com/iCodeguru/videos/9491305014313049/) |
 | *(More coming soon)* | *TBD*                          | *TBD*          | *Will update*  |
 
 I will continue to present more problems in the coming weeks and update my entries in the above shared sheet.
