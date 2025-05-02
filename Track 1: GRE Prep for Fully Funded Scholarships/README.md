@@ -39,11 +39,11 @@ This repository will be updated regularly with:
 ### Week 1
 | Day       | Date       | Recording Link         | Week/Day | Topic & Speaker                                                       |
 | --------- | ---------- | ---------------------- | -------- | --------------------------------------------------------------------- |
-| Monday    | 28-04-2025 | [📹 Recording Link](#) | 01/01    | **Introduction to GRE** by *Saher Nadeem* and **Tips** by *Sir Hamza* |
-| Tuesday   | 29-04-2025 | [📹 Recording Link](#) | 01/02    | **Introduction to GRE** by *Saher Nadeem*                             |
-| Wednesday | 30-04-2025 | [📹 Recording Link](#) | 01/03    | **Quantitative Section** by *Saher Nadeem*                            |
-| Thursday  | 01-05-2025 | [📹 Recording Link](#) | 01/04    | **Quantitative Section** by *Saher Nadeem*                            |
-| Friday    | 02-05-2025 | [📹 Recording Link](#) | 01/05    | **Quantitative Section** by *Qaisar Abbas*                            |
+| Monday    | 28-04-2025 | [📹 Recording Link](https://www.facebook.com/iCodeguru/videos/1213629713507782/) | 01/01    | **Introduction to GRE** by *Saher Nadeem* and **Tips** by *Sir Hamza* |
+| Tuesday   | 29-04-2025 | [📹 Recording Link](https://www.facebook.com/iCodeguru/videos/474451895693755/) | 01/02    | **Introduction to GRE** by *Saher Nadeem*                             |
+| Wednesday | 30-04-2025 | [📹 Recording Link](https://www.facebook.com/iCodeguru/videos/9719853561413247/) | 01/03    | **Quantitative Section** by *Saher Nadeem*                            |
+| Thursday  | 01-05-2025 | [📹 Recording Link](https://www.facebook.com/iCodeguru/videos/1325278021914131/) | 01/04    | **Quantitative Section** by *Saher Nadeem*                            |
+| Friday    | 02-05-2025 | [📹 Recording Link](https://www.facebook.com/iCodeguru/videos/743249154691891/) | 01/05    | **Quantitative Section** by *Qaisar Abbas*                            |
 
 
 ---
