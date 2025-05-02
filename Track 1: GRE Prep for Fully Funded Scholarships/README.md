@@ -43,7 +43,7 @@ This repository will be updated regularly with:
 | Tuesday   | 29-04-2025 | [📹 Recording Link](https://www.facebook.com/iCodeguru/videos/474451895693755/) | 01/02    | **Introduction to GRE** by *Saher Nadeem*                             |
 | Wednesday | 30-04-2025 | [📹 Recording Link](https://www.facebook.com/iCodeguru/videos/9719853561413247/) | 01/03    | **Quantitative Section** by *Saher Nadeem*                            |
 | Thursday  | 01-05-2025 | [📹 Recording Link](https://www.facebook.com/iCodeguru/videos/1325278021914131/) | 01/04    | **Quantitative Section** by *Saher Nadeem*                            |
-| Friday    | 02-05-2025 | [📹 Recording Link](https://www.facebook.com/iCodeguru/videos/743249154691891/) | 01/05    | **Quantitative Section** by *Qaisar Abbas*                            |
+| Friday    | 02-05-2025 | [📹 Recording Link](https://www.facebook.com/iCodeguru/videos/743249154691891/) | 01/05    | **Quantitative Section** by ***Qaisar Abbas***                            |
 
 
 ---
