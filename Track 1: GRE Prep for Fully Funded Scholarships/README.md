@@ -36,10 +36,15 @@ This repository will be updated regularly with:
 ---
 
 ## 🧾 Session Materials
+### Week 1
+| Day       | Date       | Recording Link         | Week/Day | Topic & Speaker                                                       |
+| --------- | ---------- | ---------------------- | -------- | --------------------------------------------------------------------- |
+| Monday    | 28-04-2025 | [📹 Recording Link](#) | 01/01    | **Introduction to GRE** by *Saher Nadeem* and **Tips** by *Sir Hamza* |
+| Tuesday   | 29-04-2025 | [📹 Recording Link](#) | 01/02    | **Introduction to GRE** by *Saher Nadeem*                             |
+| Wednesday | 30-04-2025 | [📹 Recording Link](#) | 01/03    | **Quantitative Section** by *Saher Nadeem*                            |
+| Thursday  | 01-05-2025 | [📹 Recording Link](#) | 01/04    | **Quantitative Section** by *Saher Nadeem*                            |
+| Friday    | 02-05-2025 | [📹 Recording Link](#) | 01/05    | **Quantitative Section** by *Qaisar Abbas*                            |
 
-| Date          | Topic                                | Notes/Material          | Recording                                                                                    | Speaker        |
-| ------------- | ------------------------------------ | ----------------------- | -------------------------------------------------------------------------------------------- | -------------- |
-| 25 April 2025 | GRE Structure & Scholarship Pathways | [Session Summary PDF]() | [Facebook Video]() | iCodeGuru Team |
 
 ---
 
