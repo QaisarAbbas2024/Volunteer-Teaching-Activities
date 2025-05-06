@@ -33,6 +33,8 @@ Here is a link to the slides and recording spreadsheet for all the presentations
 |  14 April 2025 |  Overview of iCodeGuru  | [Presentation Slides](https://docs.google.com/presentation/d/1t-54_e0c0R8zj0xnHd6B-0f1fwrZJhIyqIPNUrkxlIo/edit#slide=id.g1067dbb9740_2_198)  |  [W1, D1 Recording Link](https://www.facebook.com/iCodeguru/videos/9891651877545473) | Qaisar Abbas (Me) |
 | 16 April 2025  | LeetCode Problems: <br>• 1920. Build Array <br>• 485. Max Consecutive Ones <br>• 1. Two Sum | Solved LeetCode Problems | [📹 Recording](https://www.facebook.com/iCodeguru/videos/651573680997709/) <br> [1920](https://leetcode.com/problems/build-array-from-permutation/) • [485](https://leetcode.com/problems/max-consecutive-ones/) • [1](https://leetcode.com/problems/two-sum/) | M. Burhan, Qaisar Abbas |
 
+| 01-May    | D4  | LeetCode Problem 162: Find Peak Element                           | **Qaisar Abbas**                    | 📹 [Recording](https://www.facebook.com/iCodeguru/videos/981133884046110/) <br>🔗 [LeetCode 162 - Find Peak Element](https://leetcode.com/problems/find-peak-element/) |
+
 ---
 
 ## 📸 Session Glimpses
