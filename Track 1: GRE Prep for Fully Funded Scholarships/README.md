@@ -47,7 +47,19 @@ This repository will be updated regularly with:
 | Thursday  | 01-05-2025 | 📹[Recording Link](https://www.facebook.com/iCodeguru/videos/1325278021914131/) | 01/04    | **Quantitative Section** by *Saher Nadeem*                            |
 | Friday    | 02-05-2025 | 📹[Recording Link](https://www.facebook.com/iCodeguru/videos/743249154691891/) | 01/05    | **Quantitative Section** by ***Qaisar Abbas***<br> (Divisibility Rules, Prime Numbers)                            |
 
+---
 
+## 🗓️ WEEK 2: Schedule & Session Objectives
+
+| Day       | Date        | Recording Link     | Week/Day | Topic & Speaker                                |
+|-----------|-------------|--------------------|----------|------------------------------------------------|
+| Monday    | 05-05-2025  | [📹 Recording Link](#) | 02/01   | **Verbal Section** by *M. Saqlain*             |
+| Tuesday   | 06-05-2025  | [📹 Recording Link](#) | 02/02   | **Verbal Section** by *M. Saqlain*             |
+| Wednesday | 07-05-2025  | [📹 Recording Link](#) | 02/03   | **Quantitative Section** by *Saher Nadeem* & *Qaisar Abbas* |
+| Thursday  | 08-05-2025  | [📹 Recording Link](#) | 02/04   | **Quantitative Section** by *Qaisar Abbas*     |
+| Friday    | 09-05-2025  | 🔴 *Recording Not Available* | 02/05   | *Session Details Pending / To Be Updated*      |
+
+---
 ---
 
 ## 🙌 Acknowledgments
