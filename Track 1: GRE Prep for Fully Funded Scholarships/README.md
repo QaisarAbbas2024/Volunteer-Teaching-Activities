@@ -38,7 +38,7 @@ This repository will be updated regularly with:
 ---
 
 ## 🧾 Session Materials
-### Week 1
+### 🗓️ Week 1: Schedule & Session Details
 | Day       | Date       | Recording Link         | Week/Day | Topic & Speaker                                                       |
 | --------- | ---------- | ---------------------- | -------- | --------------------------------------------------------------------- |
 | Monday    | 28-04-2025 | 📹[Recording Link](https://www.facebook.com/iCodeguru/videos/1213629713507782/) | 01/01    | **Introduction to GRE** by *Saher Nadeem* and **Tips** by *Sir Hamza* |
@@ -49,7 +49,7 @@ This repository will be updated regularly with:
 
 ---
 
-## 🗓️ WEEK 2: Schedule & Session Objectives
+### 🗓️ WEEK 2: Schedule & Session Details
 
 | Day       | Date        | Recording Link     | Week/Day | Topic & Speaker                                |
 |-----------|-------------|--------------------|----------|------------------------------------------------|
