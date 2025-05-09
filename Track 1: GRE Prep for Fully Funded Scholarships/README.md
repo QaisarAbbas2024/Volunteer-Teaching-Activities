@@ -57,7 +57,7 @@ This repository will be updated regularly with:
 | Tuesday   | 06-05-2025  | [📹 Recording Link](https://www.facebook.com/iCodeguru/videos/2084698832053073/) | 02/02   | **Verbal Section** by *M. Saqlain*             |
 | Wednesday | 07-05-2025  | [📹 Recording Link](https://www.facebook.com/iCodeguru/videos/1041939434501629/) | 02/03   | **Quantitative Section** by *Saher Nadeem* & *Qaisar Abbas* |
 | Thursday  | 08-05-2025  | [📹 Recording Link](https://www.facebook.com/iCodeguru/videos/672796318944383/) | 02/04   | **Quantitative Section** by *Qaisar Abbas*     |
-| Friday    | 09-05-2025  | 🔴 *Recording Not Available Yet* | 02/05   | *Session Details Pending / To Be Updated*      |
+| Friday    | 09-05-2025  | [📹 Recording Link](https://www.facebook.com/iCodeguru/videos/694213700082818/) | 02/05   | **Quantitative Section** by *Qaisar Abbas*       |
 
 ---
 
