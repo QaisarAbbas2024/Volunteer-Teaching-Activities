@@ -60,7 +60,19 @@ This repository will be updated regularly with:
 | Friday    | 09-05-2025  | [📹 Recording Link](https://www.facebook.com/iCodeguru/videos/694213700082818/) | 02/05   | **Quantitative Section** by *Qaisar Abbas*       |
 
 ---
+---
 
+### 🗓️ WEEK 3: Schedule & Session Details
+
+| Day       | Date        | Recording Link     | Week/Day | Topic & Speaker                                |
+|-----------|-------------|--------------------|----------|------------------------------------------------|
+| Monday    | 12-05-2025  | [📹 Recording Link]() To be Added | 03/01   | **To be Added** by *To be Added*      |
+| Tuesday   | 13-05-2025  | [📹 Recording Link]() To be Added | 03/02   | **To be Added** by *To be Added*      |
+| Wednesday | 14-05-2025  | [📹 Recording Link]() To be Added | 03/03   | **To be Added** by *To be Added*      |
+| Thursday  | 15-05-2025  | [📹 Recording Link]() To be Added | 03/04   | **To be Added** by *To be Added*      |
+| Friday    | 16-05-2025  | [📹 Recording Link]() To be Added | 03/05   | **To be Added** by *To be Added*      |
+
+---
 ## 🙌 Acknowledgments
 
 A special thanks to the **[@iCodeGuru](https://www.facebook.com/icodeguru)** community and all mentors guiding students toward academic success. Your impact is real and appreciated!
