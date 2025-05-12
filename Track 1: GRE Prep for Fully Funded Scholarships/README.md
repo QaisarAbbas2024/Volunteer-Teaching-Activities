@@ -66,7 +66,7 @@ This repository will be updated regularly with:
 
 | Day       | Date        | Recording Link     | Week/Day | Topic & Speaker                                |
 |-----------|-------------|--------------------|----------|------------------------------------------------|
-| Monday    | 12-05-2025  | [📹 Recording Link]() To be Added | 03/01   | **To be Added** by *To be Added*      |
+| Monday    | 12-05-2025  | [📹 Recording Link](https://www.facebook.com/iCodeguru/videos/1345212476767862/) | 03/01   | **Tree Structure** by *Shahzil Imran*    |
 | Tuesday   | 13-05-2025  | [📹 Recording Link]() To be Added | 03/02   | **To be Added** by *To be Added*      |
 | Wednesday | 14-05-2025  | [📹 Recording Link]() To be Added | 03/03   | **To be Added** by *To be Added*      |
 | Thursday  | 15-05-2025  | [📹 Recording Link]() To be Added | 03/04   | **To be Added** by *To be Added*      |
