@@ -69,7 +69,7 @@ This repository will be updated regularly with:
 | Monday    | 12-05-2025  | [📹 Recording Link](https://www.facebook.com/iCodeguru/videos/1345212476767862/) | 03/01   | **Quantitative Section** by *Saher Nadeem*    |
 | Tuesday   | 13-05-2025  | [📹 Recording Link](https://www.facebook.com/iCodeguru/videos/673559232052395/) | 03/02   | **Quantitative Section: Unit Digit Patterns** by *Qaisar Abbas*      |
 | Wednesday | 14-05-2025  | [📹 Recording Link](https://www.facebook.com/iCodeguru/videos/1492216098609275/) | 03/03   | **Quantitative Section** by *Saher Nadeem*      |
-| Thursday  | 15-05-2025  | [📹 Recording Link]() To be Added | 03/04   | **To be Added** by *To be Added*      |
+| Thursday  | 15-05-2025  | [📹 Recording Link]() To be Added | 03/04   | **Quantitative Section** by *Saher Nadeem*      |
 | Friday    | 16-05-2025  | [📹 Recording Link]() To be Added | 03/05   | **To be Added** by *To be Added*      |
 
 ---
