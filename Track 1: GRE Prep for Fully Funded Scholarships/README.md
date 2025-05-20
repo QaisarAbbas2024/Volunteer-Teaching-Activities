@@ -73,6 +73,18 @@ This repository will be updated regularly with:
 | Friday    | 16-05-2025  | [📹 Recording Link](https://www.facebook.com/iCodeguru/videos/1330639934708020/) | 03/05   | **Quantitative Section** by *Saher Nadeem*       |
 
 ---
+
+### 🗓️ WEEK 4: Schedule & Session Details
+
+| Day       | Date        | Recording Link     | Week/Day | Topic & Speaker                                |
+|-----------|-------------|--------------------|----------|------------------------------------------------|
+| Monday    | 19-05-2025  | [📹 Recording Link](https://www.facebook.com/watch/?v=709609901531468) | 04/01   | **Quantitative Section** by *Saher Nadeem*    |
+| Tuesday   | 20-05-2025  | [📹 Recording Link](https://www.facebook.com/iCodeguru/videos/1678610346106291/) | 04/02   | **Quantitative Section** by *Jaweria Siddiqui*      |
+| Wednesday | 14-05-2025  | [📹 Recording Link]() | 04/03   | **Quantitative Section** by *Saher Nadeem*      |
+| Thursday  | 15-05-2025  | [📹 Recording Link]()  | 04/04   | **Quantitative Section** by *Saher Nadeem*      |
+| Friday    | 16-05-2025  | [📹 Recording Link]() | 04/05   | **Quantitative Section** by *Saher Nadeem*       |
+
+---
 ## 🙌 Acknowledgments
 
 A special thanks to the **[@iCodeGuru](https://www.facebook.com/icodeguru)** community and all mentors guiding students toward academic success. Your impact is real and appreciated!
