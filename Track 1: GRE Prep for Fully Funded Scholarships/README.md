@@ -80,7 +80,7 @@ This repository will be updated regularly with:
 |-----------|-------------|--------------------|----------|------------------------------------------------|
 | Monday    | 19-05-2025  | [📹 Recording Link](https://www.facebook.com/watch/?v=709609901531468) | 04/01   | **Quantitative Section** by *Saher Nadeem*    |
 | Tuesday   | 20-05-2025  | [📹 Recording Link](https://www.facebook.com/iCodeguru/videos/1678610346106291/) | 04/02   | **Quantitative Section** by *Jaweria Siddiqui*      |
-| Wednesday | 14-05-2025  | [📹 Recording Link]() | 04/03   | **Quantitative Section** by *Saher Nadeem*      |
+| Wednesday | 14-05-2025  | [📹 Recording Link](https://www.facebook.com/iCodeguru/videos/1266481175070738/) | 04/03   | **Quantitative Section** by *Saher Nadeem*      |
 | Thursday  | 15-05-2025  | [📹 Recording Link]()  | 04/04   | **Quantitative Section** by *Saher Nadeem*      |
 | Friday    | 16-05-2025  | [📹 Recording Link]() | 04/05   | **Quantitative Section** by *Saher Nadeem*       |
 
