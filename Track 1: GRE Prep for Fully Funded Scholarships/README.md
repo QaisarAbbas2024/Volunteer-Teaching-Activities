@@ -36,7 +36,7 @@ This repository will be updated regularly with:
 * 🌍 List of Fully Funded Scholarships that require or recommend the GRE
 
 ---
-
+## 🧾[Recording Spreadsheet Link](https://docs.google.com/spreadsheets/d/1NdLshbTF6gURKIRAnyNE2DWdnz0X_UFVU443uzINVSE/edit?gid=0#gid=0)
 ## 🧾 Session Materials
 ### 🗓️ Week 1: Schedule & Session Details
 | Day       | Date       | Recording Link         | Week/Day | Topic & Speaker                                                       |
