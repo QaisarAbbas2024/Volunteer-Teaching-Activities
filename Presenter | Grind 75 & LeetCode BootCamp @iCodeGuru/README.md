@@ -1,4 +1,4 @@
-## 📚 Grind 75: FAANG Interview Preparation Workshop + LeetCode Hard Bootcamp II @iCodeGuru [@iCodeGuru](https://www.linkedin.com/company/icode-guru/posts/?feedView=all)
+## 📚 Grind 75: FAANG Interview Preparation Workshop + LeetCode Hard Bootcamp II [@iCodeGuru](https://www.linkedin.com/company/icode-guru/posts/?feedView=all)
 <div align="center">
 
 ![Made by Qaisar](https://img.shields.io/badge/Made%20by-Qaisar%20Abbas-blueviolet)
