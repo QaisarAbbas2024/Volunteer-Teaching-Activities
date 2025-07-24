@@ -7,7 +7,14 @@
 
 by [Qaisar Abbas](https://github.com/QaisarAbbas2024/)
 
-Welcome to the official repository for the lectures I delivered as part of the "Grind 75: FAANG Interview Preparation Workshop", hosted by iCodeGuru. This 7-day intensive workshop kicked off on March 16th, 2025, and was led by a passionate team of mentors and trainers (including myself), all driven by the goal of helping students prepare for technical interviews at top tech companies like FAANG (Facebook, Amazon, Apple, Netflix, Google).
+## 🎓 About This Repository
+Welcome to the official repository for the sessions I delivered as part of:
+
+Grind 75: FAANG Interview Preparation Workshop (March 2025)
+
+LeetCode Hard Bootcamp II: Simplifying with Strategies (5AM–7AM Edition)
+
+Hosted by @iCodeGuru, these programs were designed to help students build strong DSA fundamentals and confidently tackle LeetCode questions, including some of the toughest Hard-level problems.
 ***
 📢**Announcement:** [View on Facebook](https://www.facebook.com/share/p/1AEKihwC8P/) 
 
@@ -56,6 +63,20 @@ During my sessions in the workshop, I walked through detailed solutions and appr
 994. Rotting Oranges
 
 Each problem was selected to strengthen core concepts in data structures and algorithms, with a focus on interview-style thinking.
+***
+## 🔍 LeetCode Hard Bootcamp II (5AM–7AM Edition)
+I was also honored to present in selected sessions of the "Simplifying LeetCode Hard with Strategies Bootcamp II" — a special early morning DSA camp organized by iCodeGuru.
+
+📄 Full Schedule & Recordings: [Click at Link](https://docs.google.com/spreadsheets/d/14bcysYa-mDSXT-z8erEhP7bqhPEaxXAHAhyE6FDSvSk/edit?gid=0#gid=0)
+👉 Google Sheet
+
+✅ Topics I Presented:
+Date	Problem(s)	Focus Area
+[May 19, 2025 ]	[LC. 458, Poor Pigs]	[Recording of Session](https://www.facebook.com/watch/?v=1439807410509773&rdid=Te5pzWn5mwJuC2J5)
+[May 21, 2025]	[LC. 726 , Number of Atoms]	[Recording of Session](https://www.facebook.com/iCodeguru/videos/679026791391175)
+[May 23, 2025]	[LC. 12 , Integer to Roman]	[Recording of Session](https://www.facebook.com/watch/?v=567021783113179&rdid=tO9VWTl0jrT5bnVD)
+[May 26, 2025]	[LC. 279 , Perfect Squares]	[Recording of Session](https://www.facebook.com/iCodeguru/videos/977473731264177)
+
 ***
 ## 🙌 Special Thanks
 
